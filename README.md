@@ -1,8 +1,6 @@
 basic snake game using raylib
 in cpp
 <hr>
-author -shh
-a basic snake game using raylib
 
 you need raylib lib installed to run this game
 
