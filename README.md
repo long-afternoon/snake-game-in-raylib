@@ -1,1 +1,4 @@
-a basic snake game using raylib
+basic snake game using raylib
+
+
+author -shh
